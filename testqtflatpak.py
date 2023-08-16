@@ -1,2 +1,2 @@
-from app.mainapp import main
+from app.testqtflatpak import main
 main()
