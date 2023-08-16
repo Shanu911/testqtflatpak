@@ -3,7 +3,7 @@ Name=testqtflatpak
 Terminal=False
 Type=Application
 Icon=testqtflatpak
-Exex=testqtflatpak
-Comment=Testing
+Exec=testqtflatpak
+Comment=Testing Flatpak of a PyQt5 based GUI
 Catagories=Games
 
